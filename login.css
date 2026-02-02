@@ -3,7 +3,7 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    background-image:url("space.jpg")
+    background-image:url("images/.space.jpg")
 }
 
 .logo{
@@ -169,13 +169,13 @@ body{
     align-items: center;
     display: flex;
     flex-direction: column;
-    background: url("colorful\ scenery.jpeg");
+    background: url("images/colorful\ scenery.jpeg");
     background-size: cover;
     background-position: center;
 }
 
 .signup .details{
-    background: url("noice.jpg");
+    background: url("images/noice.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -265,6 +265,7 @@ button:hover{
     height: 12px;
     margin-right: 8px;
 }
+
 
 
 

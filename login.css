@@ -1,6 +1,3 @@
-/* HOVER VALA SCENE
-
-*/
 body{
     min-height: 100vh;
     background-size: cover;
@@ -93,7 +90,7 @@ body{
     max-width: 95%;   
     /* min-height: 480px;    */
     height:70vh;
-    opacity: 0;                   /*ye hai htane ka tarika*/
+    opacity: 0;                   
     pointer-events: none;     
     background: #fff;
     padding: 0;
@@ -268,4 +265,5 @@ button:hover{
     height: 12px;
     margin-right: 8px;
 }
+
 
